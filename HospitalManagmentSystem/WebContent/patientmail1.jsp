@@ -29,7 +29,7 @@
 
     final String from = "receptionisthospital1@gmail.com";
 
-    final String pass = "14219970";
+    final String pass = "******";
 
  
 
